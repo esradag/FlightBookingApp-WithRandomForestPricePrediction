@@ -5,9 +5,9 @@ This repository contains a Flutter-based flight booking application integrated w
 
 <img width="418" alt="Ekran Resmi 2024-07-03 02 00 37" src="https://github.com/esradag/FlightBookingApp-WithRandomForestPricePrediction/assets/73072424/3694de9a-517e-447b-8ad1-6b84d0882401">
 
-## Features<img width="421" alt="Ekran Resmi 2024-07-03 02 00 18" src="https://github.com/esradag/FlightBookingApp-WithRandomForestPricePrediction/assets/73072424/16792936-3d98-44ba-bd65-e4792cb6b8fe">
+<img width="421" alt="Ekran Resmi 2024-07-03 02 00 18" src="https://github.com/esradag/FlightBookingApp-WithRandomForestPricePrediction/assets/73072424/16792936-3d98-44ba-bd65-e4792cb6b8fe">
 
-
+## Features
 ### Flight Search and Booking
 - Search for flights based on various criteria including departure and arrival cities, travel dates, number of passengers, and class of travel.
 - Toggle between one-way and round-trip options.
